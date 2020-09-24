@@ -1,4 +1,6 @@
-    package com.company;
+    package com.company.singleton;
+
+    import com.company.Params;
 
     public class ConnectDatabase {
         private String url;
